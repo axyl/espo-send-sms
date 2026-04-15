@@ -8,7 +8,7 @@
     "acceptableVersions": [
         ">=8.1"
     ],
-    "version": "26",
+    "version": "27",
     "skipBackup": true,
     "releaseDate": "2026-03-25"
 }
