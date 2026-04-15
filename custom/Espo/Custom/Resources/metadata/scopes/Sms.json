@@ -1,0 +1,12 @@
+{
+    "entity": true,
+    "layouts": true,
+    "tab": true,
+    "acl": true,
+    "object": true,
+    "activity": true,
+    "activityStatusList": [],
+    "customizable": true,
+    "importable": true,
+    "historyStatusList": ["Sent", "Archived"]
+}

@@ -1,0 +1,19 @@
+{
+    "labels": {
+        "Send SMS": "Send SMS",
+        "Compose SMS": "Compose SMS"
+    },
+    "fields": {
+        "body": "Message",
+        "to": "To",
+        "from": "From",
+        "dateSent": "Date Sent",
+        "status": "Status"
+    },
+    "messages": {
+        "smsSent": "SMS sent successfully.",
+        "smsSendFailed": "Failed to send SMS.",
+        "toRequired": "Phone number is required.",
+        "bodyRequired": "Message body is required."
+    }
+}

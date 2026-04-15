@@ -1,0 +1,12 @@
+[
+    {
+        "route": "/Activities/:parentType/:id/:type",
+        "method": "get",
+        "actionClassName": "Espo\\Custom\\Tools\\Activities\\Api\\Get"
+    },
+    {
+        "route": "/Activities/:parentType/:id/:type/list/:targetType",
+        "method": "get",
+        "actionClassName": "Espo\\Custom\\Tools\\Activities\\Api\\GetListTyped"
+    }
+]

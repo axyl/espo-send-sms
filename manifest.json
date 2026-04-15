@@ -1,0 +1,14 @@
+{
+    "name": "SMS Message",
+    "description": "Sends SMS Messages using the SMS provider.",
+    "author": "Craig Foley",
+    "php": [
+        ">=8.1"
+    ],
+    "acceptableVersions": [
+        ">=8.1"
+    ],
+    "version": "26",
+    "skipBackup": true,
+    "releaseDate": "2026-03-25"
+}

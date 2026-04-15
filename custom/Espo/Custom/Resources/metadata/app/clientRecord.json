@@ -1,0 +1,10 @@
+{
+    "panels": {
+        "activities": {
+            "view": "custom:views/record/panels/activities"
+        },
+        "history": {
+            "view": "custom:views/record/panels/history"
+        }
+    }
+}

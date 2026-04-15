@@ -1,0 +1,7 @@
+[
+    {"name":"body","link":true},
+    {"name":"parent","width":20},
+    {"name":"status","width":12},
+    {"name":"dateSent","width":15},
+    {"name":"createdBy","width":15}
+]

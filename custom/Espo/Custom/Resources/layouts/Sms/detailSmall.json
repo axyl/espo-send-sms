@@ -1,0 +1,10 @@
+[
+    {
+        "label": "",
+        "rows": [
+            [{"name":"dateSent"},{"name":"createdBy"}],
+            [{"name":"status"},{"name":"parent"}],
+            [{"name":"body","fullWidth":true}]
+        ]
+    }
+]
